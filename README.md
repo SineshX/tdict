@@ -1,5 +1,7 @@
 # Terminal Google Dictionary (online)
 
+OC : https://github.com/rahulnegi20/tdict
+
 ### Too Geeky(Lazy) to go (google/bing) meaning of the word?
 
 Well, then this is the perfect script for you!
@@ -60,6 +62,7 @@ git clone https://github.com/SineshX/tdict.git
 
 
 # For Linux
+goto : https://github.com/rahulnegi20/tdict
 
 #### In order to run the script from terminal (anylocation)
 
